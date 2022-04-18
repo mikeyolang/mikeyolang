@@ -4,15 +4,9 @@ Hi 👋 My name is Michael Olang
 Front-end webdeveloper and Java developer
 -----------------------------------------
 
-I have been learning code for some years now after finishing my High school.I started with HTML and CSS and later found a passion in front-end web development which then pushed me to learn JavaScript and React js. I have some C programming knowledge but not that much. After attending several Java classes in my undergraduate Computer Science program at Egerton University, I also did fell in love with Java programming and eager to become a great java developer
-
 * 🌍  I'm based in Nakuru
-* 🖥️  See my portfolio at [Mikeyolang](http://github.com/mikeyolang)
 * ✉️  You can contact me at [brunomike965@gmail.com](mailto:brunomike965@gmail.com)
-* 🚀  I'm currently working on [My front-end skills](http://github.com/mikeyolang)
-* 🧠  I'm learning React js and Software development using Java
 * 🤝  I'm open to collaborating on Software and front-end development projects
-* ⚡  I am secretly a tutor too...
 
 ### Skills
 

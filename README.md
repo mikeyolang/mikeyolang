@@ -1,7 +1,7 @@
 Hi 👋 My name is Michael Olang
 ==============================
 
-Front-end webdeveloper and Java developer
+Software Developer
 -----------------------------------------
 
 * 🌍  I'm based in Nakuru

@@ -5,7 +5,7 @@ Software Developer
 -----------------------------------------
 
 * 🌍  I'm based in Nakuru
-* ✉️  You can contact me at [brunomike965@gmail.com](mailto:brunomike965@gmail.com)
+* ✉️  You can contact me at [olangmichael37@gmail.com](mailto:brunomike965@gmail.com)
 * 🤝  I'm open to collaborating on Software and front-end development projects
 
 ### Skills

@@ -1,11 +1,11 @@
 Hi 👋 My name is Michael Olang
 ==============================
 
-Software Developer
+Mobile App Developer
 -----------------------------------------
 
-* 🌍  I'm based in Nakuru
-* ✉️  You can contact me at [olangmichael37@gmail.com](mailto:brunomike965@gmail.com)
+* 🌍  I'm based in Nairobi
+* ✉️  You can contact me at [olangmichael37@gmail.com](mailto:olangmichael37@gmail.com)
 * 🤝  I'm open to collaborating on Software and front-end development projects
 
 ### Skills

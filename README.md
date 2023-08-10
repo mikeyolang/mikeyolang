@@ -4,7 +4,7 @@ Hi 👋 My name is Michael Otieno Olang
 Mobile App Developer
 --------------------
 
-* 🌍  I'm based in Nakuru
+* 🌍  I'm based in Kenya
 * ✉️  You can contact me at [olangmichael37@gmail.com](mailto:olangmichael37@gmail.com)
 * 🧠  I'm learning Front-end and Back-end Android Development
 * 🤝  I'm open to collaborating on Interesting Projects

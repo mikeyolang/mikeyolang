@@ -6,7 +6,7 @@ Mobile App Developer
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [olangmichael37@gmail.com](mailto:olangmichael37@gmail.com)
-* 🧠  I'm learning Front-end and Back-end Android Development
+* 🧠  I'm experienced in both Front-end and Back-end Mobile App Development
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
